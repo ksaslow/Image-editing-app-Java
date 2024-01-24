@@ -14,6 +14,37 @@ fit in a zip file of max 5MB for the submission. So it doesn't look like much.
 The image used in the image editor is also one that I own. It is a picture of the July4th party my 
 family had and the food set out on the table.
 
+*** Preview of App ***
+
+**Results**
+
+This is what my GUI looks like before an image is loaded into it:
+
+![GUI before image loaded]
+
+I have a toolbar of all transformations on the left side of the GUI frame, and I have a
+canvas with scrollbars to move depending on the size of the loaded image. The bar
+along the top that says "Image Editor" will display messages to the user to help with
+usability. It allows the user to see any errors, as well as the last transformation
+carried out.
+
+![GUI after image loaded]
+
+After an image is loaded into the GUI, you can see that - depending on the size of the
+image - the canvas should be adjusted accordingly. The image I chose to work with
+(July4th.png) is rather large, so it is bigger than the canvas I set for my GUI.
+
+![GUI after image sharpened]
+
+After an image is transformed (in the above example, the image has been repeatedly
+sharpened to get that effect), you see that the image is rendered directly to the GUI and
+the transformed image shows up immediately after the button was clicked. The user must not refresh
+the screen or anything like that. The image is transformed and rendered in the same canvas,
+simply replacing the image from before it.
+
+For more details about interacting with and using the application, please refer
+to the `USEME.md` file.
+
 ***File Structure***
 
 **Model**
