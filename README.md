@@ -254,6 +254,6 @@ class, where I had to add the new image-object conversion methods to maximize my
 functionality. 
 
 
-[GUI before image loaded]: GUI_beforeImageLoadedsmall.png
-[GUI after image loaded]: GUI_imageLoadedsmall.png
-[GUI after image sharpened]: GUI_imageSharpenedsmall.png
+[GUI before image loaded]: src/GUI_beforeImageLoadedsmall.png
+[GUI after image loaded]: src/GUI_imageLoadedsmall.png
+[GUI after image sharpened]: src/GUI_imageSharpenedsmall.png
