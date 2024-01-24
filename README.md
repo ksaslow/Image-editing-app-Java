@@ -1,5 +1,5 @@
 # Image-editing-app-Java
-Image editing application built in Java using Model View Controller architecture
+Image editing application built in Java using Model View Controller architecture. This application leverages command patterns, I/O functions, and complex object-oriented design patterns to uphold the SOLID principles.
 
 #### Author: Kate Saslow
 #### Semester: Summer 2023
