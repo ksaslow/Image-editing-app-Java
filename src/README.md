@@ -14,7 +14,7 @@ fit in a zip file of max 5MB for the submission. So it doesn't look like much.
 The image used in the image editor is also one that I own. It is a picture of the July4th party my 
 family had and the food set out on the table.
 
-*** Preview of App ***
+**Preview of App**
 
 **Results**
 
@@ -252,3 +252,7 @@ interface IView and ViewListener, and the class View.
 Once again, no files from the last homework assignment were changed, except for my `ImageUtil` 
 class, where I had to add the new image-object conversion methods to maximize my program's
 functionality. 
+
+[GUI before image loaded]: GUI_beforeImageLoadedsmall.png
+[GUI after image loaded]: GUI_imageLoadedsmall.png
+[GUI after image sharpened]: GUI_imageSharpenedsmall.png
