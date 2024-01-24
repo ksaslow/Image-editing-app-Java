@@ -1,0 +1,29 @@
+load res/Lake.png lake-png
+
+sharpen lake-png lake-sharpened-png
+
+save res/lake-sharpened.png lake-sharpened-png
+
+blur lake-png lake-blurred-png
+
+save res/lake-blurred.png lake-blurred-png
+
+load res/Lake.ppm lake-ppm
+
+sharpen lake-ppm lake-sharpened-ppm
+
+save res/lake-sharpened.ppm lake-sharpened-ppm
+
+blur lake-ppm lake-blurred-ppm
+
+save res/lake-blurred.ppm lake-blurred-ppm
+
+load res/Lake.jpg lake-jpg
+
+sharpen lake-jpg lake-sharpened-jpg
+
+save res/lake-sharpened.jpg lake-sharpened-jpg
+
+blur lake-jpg lake-blurred-jpg
+
+save res/lake-blurred.jpg lake-blurred-jpg
