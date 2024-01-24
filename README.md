@@ -252,3 +252,8 @@ interface IView and ViewListener, and the class View.
 Once again, no files from the last homework assignment were changed, except for my `ImageUtil` 
 class, where I had to add the new image-object conversion methods to maximize my program's
 functionality. 
+
+
+[GUI before image loaded]: GUI_beforeImageLoadedsmall.png
+[GUI after image loaded]: GUI_imageLoadedsmall.png
+[GUI after image sharpened]: GUI_imageSharpenedsmall.png
